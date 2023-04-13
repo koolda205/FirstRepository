@@ -1,0 +1,23 @@
+[33mcommit e31294f48206251d5b3d50a17bec507ead53bdd1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Dmitrii Kulakov <koolda@yandex.ru>
+Date:   Thu Apr 13 22:26:31 2023 +0300
+
+    return file1.txt to its original state
+
+[33mcommit 848717182befc3c1bf0f6f2fbdb8c35ee35958ab[m
+Author: Dmitrii Kulakov <koolda@yandex.ru>
+Date:   Thu Apr 13 21:16:58 2023 +0300
+
+    Change file2.txt
+
+[33mcommit bc0c0d22559c72f2289f7068f6b6eafefa35ce86[m
+Author: Dmitrii Kulakov <koolda@yandex.ru>
+Date:   Thu Apr 13 20:15:38 2023 +0300
+
+    Change file1.txt and add file2.txt
+
+[33mcommit a4add5815907705e05d580b452c82fe132f941e3[m
+Author: Dmitrii Kulakov <koolda@yandex.ru>
+Date:   Thu Apr 13 19:59:27 2023 +0300
+
+    Add file1.txt
